@@ -1,1 +1,2 @@
-ample docs for assignment docs
+smple docs for test
+docs for master
