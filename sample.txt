@@ -1,3 +1,3 @@
 smple docs for test
 docs for master
-sample
+sample text
